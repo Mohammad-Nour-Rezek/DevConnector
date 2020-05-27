@@ -2,8 +2,8 @@
 Social network for developers.
 
 To follwo along instale these packages after doing npm init:
-First:
+# First:
 npm i express express-validator bcryptjs config gravatar jsonwebtoken mongoose request
 
-Second:
+# Second:
 npm i -D nodemon concurrently
